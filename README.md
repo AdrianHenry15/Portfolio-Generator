@@ -15,3 +15,4 @@ This application was built to capture user input with command-line arguments, dy
 
 
 
+![screencapture-file-C-Users-bloos-Portfolio-Generator-dist-index-html-2022-02-14-22_00_11](https://user-images.githubusercontent.com/95331448/153984497-9261281b-32bc-40b6-bc96-06f37f3a61a9.jpg)
