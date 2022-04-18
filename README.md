@@ -5,9 +5,17 @@ This application was built to capture user input with command-line arguments, dy
 
 # Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
+- [Installation](#installation)
 - [Questions](#questions)
+
+# Usage
+
+In order to use this app, you need a computer, a terminal, and node.js
+
+Watch This [Video](https://youtu.be/bjM-4c8beqY) for how to use this application
+
+![gp_1](https://user-images.githubusercontent.com/95331448/163872019-9c717cc8-9e3a-444c-a19b-ace112487a2c.png)
 
 ## Installation
 
@@ -17,17 +25,6 @@ cd portfolio-generator-api
 npm i
 node app
 ```
-
-# Usage
-
-In order to use this app, you need a computer, a terminal, and node.js
-
-[Watch This Video for how to use this application:](https://youtu.be/bjM-4c8beqY)
-
-
-
-![gp_1](https://user-images.githubusercontent.com/95331448/163872019-9c717cc8-9e3a-444c-a19b-ace112487a2c.png)
-
 
 # Questions
 
